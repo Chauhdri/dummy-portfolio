@@ -1,0 +1,31 @@
+:root{
+    --white:#ffff;
+    --light-gray: #e5e5e5;
+    --blue: #14213d;
+    --gold: #fca311;
+  }
+  
+  *{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+  }
+  
+  a{text-decoration: none;
+  }
+  h1{font-family: "Mada",sans-serif;}
+  
+  p{font-family: "Lato",sans-serif;}
+  body{
+    font-family: "Lato",sans-serif,"Mada",sans-serif;
+    
+  }
+  
+  .navbar{
+    background-color: var(--light-gray);
+   
+  }
+  
+  .navbar li a{
+    color: var(--blue);
+  }
