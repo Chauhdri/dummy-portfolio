@@ -83,7 +83,7 @@ padding: 2em;
   float:right;
 }
 
-@media only screen and (max-width: 400) {
+@media only screen and (max-width: 400px) {
     .project-tile{
         display: flex;
         flex-direction: column;
